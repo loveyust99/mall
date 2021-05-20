@@ -23,7 +23,7 @@ spring:
         - id: customercenter
           uri: http://localhost:8084
           predicates:
-            - Path=/mypage
+            - Path=/mypages/**
       globalcors:
         corsConfigurations:
           '[/**]':
