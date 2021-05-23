@@ -28,6 +28,7 @@ public class MypageViewHandler {
                 mypage.setOrderId(orderPlaced.getId());
                 mypage.setProductId(orderPlaced.getProductId());
                 mypage.setQty(orderPlaced.getQty());
+                mypage.setStatus(orderPlaced.getStatus());
                 // view 레파지 토리에 save
                 mypageRepository.save(mypage);
             }

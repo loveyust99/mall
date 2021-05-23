@@ -10,10 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c05006df-a74c-4919-b642-3d8dd37e1df8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customercenter/src/main/java/mall/MypageViewHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/customercenter/src/main/java/mall/MypageViewHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/mall/external/CancellationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/mall/external/CancellationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/java/mall/external/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/mall/external/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,19 +66,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.DelieveryApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boot-camp-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Application" />
@@ -131,7 +119,9 @@
       <workItem from="1620746324343" duration="721000" />
       <workItem from="1620777658140" duration="780000" />
       <workItem from="1620778880861" duration="12315000" />
-      <workItem from="1621413044863" duration="5823000" />
+      <workItem from="1621413044863" duration="6514000" />
+      <workItem from="1621648807533" duration="1058000" />
+      <workItem from="1621780798161" duration="387000" />
     </task>
     <servers />
   </component>
@@ -148,5 +138,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

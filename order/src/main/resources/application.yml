@@ -30,6 +30,11 @@ spring:
         event-out:
           destination: mall
           contentType: application/json
+api:
+  product:
+    url: http://localhost:8081
+  delivery:
+    url: http://localhost:8083
 
 logging:
   level:
@@ -62,3 +67,8 @@ spring:
         event-out:
           destination: mall
           contentType: application/json
+api:
+  product:
+    url: http://product:8080
+  delivery:
+    url: http://delievery:8080
